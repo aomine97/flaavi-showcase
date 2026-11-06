@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0 0L10 5L0 10z" fill="#64748b"/>
+  </marker>
+</defs>
+<rect width="1200" height="560" rx="18" fill="#0b1220"/>
+<rect x="40" y="34" width="10" height="10" rx="2" fill="#6366f1"/>
+<text x="60" y="44" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e2e8f0" letter-spacing="0.5">FLAAVI  ·  ARCHITECTURE</text>
+<rect x="40" y="80" width="250" height="120" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="40" y="80" width="4" height="120" rx="2" fill="#6366f1"/>
+<text x="58" y="110" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Web app</text>
+<text x="58" y="134" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">Next.js, TypeScript</text>
+<text x="58" y="154" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">on Vercel</text>
+<rect x="40" y="230" width="250" height="120" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="40" y="230" width="4" height="120" rx="2" fill="#6366f1"/>
+<text x="58" y="260" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">iPhone app</text>
+<text x="58" y="284" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">SwiftUI, StoreKit</text>
+<text x="58" y="304" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">shared Swift package</text>
+<rect x="360" y="150" width="260" height="130" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="360" y="150" width="4" height="130" rx="2" fill="#6366f1"/>
+<text x="378" y="180" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">API (FastAPI)</text>
+<text x="378" y="204" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">pricing from one shared file</text>
+<text x="378" y="224" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">consent + safety gates</text>
+<text x="378" y="244" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">reserve credits</text>
+<rect x="690" y="80" width="470" height="130" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="690" y="80" width="4" height="130" rx="2" fill="#6366f1"/>
+<text x="708" y="110" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Render worker (Modal)</text>
+<text x="708" y="134" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">prep: depth, SAM masks, face mesh</text>
+<text x="708" y="154" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">video: fal (Seedance 2.5)</text>
+<text x="708" y="174" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">voice: ElevenLabs, lip-sync: sync.so</text>
+<rect x="690" y="240" width="470" height="110" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="690" y="240" width="4" height="110" rx="2" fill="#6366f1"/>
+<text x="708" y="270" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Safety + provenance</text>
+<text x="708" y="294" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">AWS Rekognition and Comprehend</text>
+<text x="708" y="314" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">output scans, C2PA signing</text>
+<rect x="360" y="390" width="380" height="130" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="360" y="390" width="4" height="130" rx="2" fill="#6366f1"/>
+<text x="378" y="420" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Supabase Postgres</text>
+<text x="378" y="444" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">double-entry credit ledger</text>
+<text x="378" y="464" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">reserve, capture, release</text>
+<text x="378" y="484" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">idempotency keys, per-user locks, RLS</text>
+<rect x="780" y="390" width="380" height="130" rx="12" fill="#162033" stroke="#2c3a55" stroke-width="1.5"/>
+<rect x="780" y="390" width="4" height="130" rx="2" fill="#6366f1"/>
+<text x="798" y="420" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">Stripe</text>
+<text x="798" y="444" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">plans and credit packs</text>
+<text x="798" y="464" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">customer portal, Radar</text>
+<text x="798" y="484" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#94a3b8">exact fees recorded per payment</text>
+<line x1="290" y1="140" x2="358" y2="195" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="290" y1="290" x2="358" y2="235" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="620" y1="190" x2="688" y2="150" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<text x="640" y="155" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#cbd5e1">render job</text>
+<line x1="925" y1="210" x2="925" y2="238" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="490" y1="280" x2="490" y2="388" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<text x="520" y="340" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#cbd5e1">ledger</text>
+<line x1="778" y1="455" x2="742" y2="455" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+</svg>
