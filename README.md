@@ -24,6 +24,8 @@ Pick a short clip, put yourself, a friend who said yes, or a character you inven
 
 ## How it's built
 
+![Flaavi architecture](images/architecture.svg)
+
 | Layer | Technology |
 |---|---|
 | Web app | Next.js (App Router), TypeScript, Tailwind CSS, on Vercel |
