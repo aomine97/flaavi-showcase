@@ -1,8 +1,8 @@
 # Flaavi
 
-**Put anyone in your favorite scene, in their own voice. Consent-first AI video, built and shipped solo.**
+**Put anyone in your favorite scene, in their own voice. Consent-first AI video, built end to end.**
 
-**Live:** [flaavi.app](https://flaavi.app) &nbsp;|&nbsp; **Status: launching October 2026, live payments**
+**Status:** Built Sep to Nov 2026. Not currently live.
 
 ![Flaavi](images/flaavi-card.png)
 
